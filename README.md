@@ -18,6 +18,11 @@
 - [Sophon Code Intellisense](https://marketplace.visualstudio.com/items?itemName=dataworks.dataworks-intellisense): VSCode 前端代码智能提示插件，去年底已经对集团内部开放，今年会正式对外放开
 - [Graphin](https://github.com/antvis/Graphin)：参与共建的antv下的图分析组件，取名意为 Graph Insight（图的分析洞察），是一个基于 G6 封装的 React 组件库
 
+#### 专栏
+
+- [前端技术专栏](https://zhuanlan.zhihu.com/c_149887474)
+- [业务产品专栏](https://zhuanlan.zhihu.com/dataworks)
+
 加入我们将有机会参与人工智能，大数据，深度学习，机器学习成果的产品化过程以及相关的创新前端交互工程；
 
 - 1、关注用户体验，不断改进服务的易用性；
